@@ -94,6 +94,7 @@
     "mini-types": "*",
     "miniprogram-api-typings": "*",
     "postcss-comment": "^2.0.0",
+    "sass": "^1.64.0",
     "vue-template-compiler": "^2.6.11"
   },
   "browserslist": [
